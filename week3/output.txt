@@ -1,0 +1,6 @@
+The student's name is Garrett Goodman
+ and their averagegrade is 67.78
+The student's name is Sifis Shimizu
+ and their averagegrade is 83.87
+The student's name is Cogan Papdakis
+ and their averagegrade is 58.41

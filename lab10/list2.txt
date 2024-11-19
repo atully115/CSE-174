@@ -1,0 +1,7 @@
+123 Chicken 1 10.0
+345 Wine 2 13.20
+480 Pepsi 12 0.75
+511 Rice 1 7.15
+178 Oreo 3 2.99
+186 Coffee 2 9.85
+102 Icecream 5 1.30
